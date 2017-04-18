@@ -1,0 +1,33 @@
+<!DOCTYPE>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                <meta name="viewport" content="width=device-width" initial-scale=1.0>  
+                    <title>Bootstrap Example</title>
+                        <link href="css/bootstrap.min.css" rel="stylesheet">
+    </head>
+<body>
+<!-- This is a simple example of applying Bootstrap's classes and components.
+     For more examples and finished components click on the link in the following:
+        http://getbootstrap.com/components/
+        http://getbootstrap.com/css/   
+-->
+<div class="container-fluid">
+<div class="jumbotron">
+  <h1>Hello, world!</h1>
+    <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+      <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body">
+    Basic panel example
+  </div>
+</div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<body>
+</html>
