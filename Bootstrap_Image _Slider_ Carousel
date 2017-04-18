@@ -25,25 +25,25 @@
                                 <div class="item active">
                                     <img src="imageFolder/img_1.jpg" alt="Image Alt_Text">
                                         <div class="carousel-caption caption_bg">
-                                            Tesco - Bananas
+                                            Image_Description
                                                 </div>
                                                     </div>
                                 <div class="item">
                                     <img src="imageFolder/img_2.jpg" alt="Image Alt_Text">
                                         <div class="carousel-caption caption_bg ">
-                                            Aldie - Cabbage, Carrots, Mushrooms
+                                            Image_Description
                                                 </div>
                                                     </div>
                                 <div class="item">
                                     <img src="imageFolder/img_3.jpg" alt="Image Alt_Text">
                                         <div class="carousel-caption caption_bg ">
-                                            Lidl - Potato
+                                            Image_Description
                                                 </div>
                                                     </div>
                                 <div class="item">
                                     <img src="imageFolder/img_4.jpg" alt="Image Alt_Text">
                                         <div class="carousel-caption caption_bg ">
-                                            Tesco - Onion
+                                            Image_Description
                                                 </div>
                                                     </div>
                                
