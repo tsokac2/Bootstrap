@@ -1,0 +1,29 @@
+<!-- Bootstrap includes a responsive, 
+mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. 
+It includes predefined classes for easy layout options,
+as well as powerful mixins for generating more semantic layouts.
+More info and examples on http://getbootstrap.com/css/#grid
+-->
+
+<!DOCTYPE>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                <meta name="viewport" content="width=device-width" initial-scale=1.0>  
+                    <title>Bootstrap Example</title>
+                        <link href="css/bootstrap.min.css" rel="stylesheet">
+    </head>
+<body>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-3 col-lg-3">LEFT DIV (Left baner)</div>
+        <div class="col-md-8 col-lg-6">CENTERED DIV (Main Content)</div>
+            <div class="col-md-3 col-lg-3"> RIGHT DIV (Right baner)</div>
+  </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<body>
+</html>
+
