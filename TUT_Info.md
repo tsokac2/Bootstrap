@@ -8,7 +8,7 @@ IMPLEMENTATION:
         <link href="FOLDER_WITH_BOOTSTRAP_FILES/css/bootstrap.min.css" rel="stylesheet">
    4. Befre ending tag </body> copy link in the folowing:
         <script src="FOLDER_WITH_BOOTSTRAP_FILES/js/bootstrap.min.js"></script>
-   4. You are good to go Enjoy ;)
+   4. You are good to go... Enjoy ;)
    
    
 
